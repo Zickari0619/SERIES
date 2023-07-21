@@ -1,0 +1,95 @@
+#EXTM3U 
+
+#EXTINF:-1,SPIDER-MAN: CRUZANDO EL MULTIVERSO (2023)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/162535.mkv
+
+#EXTINF:-1,DOCTOR STRANGE EN EL MULTIVERSO DE LA LOCURA (2022) 4K
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/153165.mkv
+
+#EXTINF:-1,LOS CABALLEROS DEL ZODIACO: LA LEYENDA DE LOS SANTOS ESCARLATAS (1988)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/140182.mp4
+
+#EXTINF:-1,LOS CABALLEROS DEL ZODIACO: LOS GUERREROS DE LA ULTIMA GUERRA SANTA (1989)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/140183.mp4
+
+#EXTINF:-1,LOS CABALLEROS DEL ZODIACO: CAPITULO DEL CIELO - OVERTURE (2004)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/140184.mp4
+
+#EXTINF:-1,LOS CABALLEROS DEL ZODIACO: LA BATALLA DE LOS DIOSES (1988)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/140185.mp4
+
+#EXTINF:-1,LOS CABALLEROS DEL ZODIACO: LA DIOSA MALVADA ERIS (1987)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/140186.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS CABALLEROS DEL ZODIACO SD
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/58301
+
+#EXTINF:-1,LA LEYENDA DE SHENLONG 
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108168.mp4
+
+#EXTINF:-1,DRAGON BALL: LA BELLA DURMIENTE EN EL CASTILLO DEL MAL (1987)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108169.mp4
+
+#EXTINF:-1,DRAGON BALL: AVENTURA MISTICA (1988)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108170.mp4
+
+#EXTINF:-1,DRAGON BALL: EL CAMINO HACIA EL MAS FUERTE (1996)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108171.mp4
+
+#EXTINF:-1,DRAGON BALL Z: GARLIC JUNIOR INMORTAL (1989)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108172.mp4
+
+#EXTINF:-1,DRAGON BALL Z: EL MAS FUERTE DEL MUNDO (1990)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108173.mp4
+
+#EXTINF:-1,LA BATALLA MAS GRANDE DEL MUNDO 
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108174.mp4
+
+#EXTINF:-1,DRAGON BALL Z: EL SUPER GUERRERO SON ROKU (1991)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108175.mp4
+
+#EXTINF:-1,DRAGON BALL Z: LOS MEJORES RIVALES (1991)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108176.mp4
+
+#EXTINF:-1,DRAGON BALL Z: GUERREROS DE FUERZA ILIMITADA (1992)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108177.mp4
+
+#EXTINF:-1,EL PODER INVENCIBLE 
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108178.mp4
+
+#EXTINF:-1,DRAGON BALL Z: LOS GUERREROS DE PLATA (1993)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108179.mp4
+
+#EXTINF:-1,DRAGON BALL Z: EL REGRESO DE BROLY (1994)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108180.mp4
+
+#EXTINF:-1,Dragon Ball Z: EL COMBATE DEFINITIVO (1994)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108181.mp4
+
+#EXTINF:-1,DRAGON BALL Z: FUSION! (1995)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108182.mp4
+
+#EXTINF:-1,DRAGON BALL Z: EL ATAQUE DEL DRAGON (1995)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108183.mp4
+
+#EXTINF:-1,DRAGON BALL GT: 100 A?OS DESPU?S (1997)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108184.mp4
+
+#EXTINF:-1,DRAGON BALL SUPER: BROLY (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108185.mp4
+
+#EXTINF:-1,DRAGON BALL Z: LA RESURRECCION DE FREEZER (2015)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108186.mp4
+
+#EXTINF:-1,EL EPISODIO DE BARDOCK 
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108187.mp4
+
+#EXTINF:-1,DRAGON BALL Z: EL ULTIMO COMBATE (1990)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108188.mp4
+
+#EXTINF:-1,EL PLAN PARA ERRADICAR A LOS SUPER SAIYAJINS 
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108189.mp4
+
+
+
+
